@@ -1,5 +1,5 @@
 # rate-limit
-Simple rate limit middleware fore express
+Simple rate limit middleware for express
 
 ## Dependency
 * redis
