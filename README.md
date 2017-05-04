@@ -5,7 +5,7 @@ Simple rate limit middleware for express
 * redis
 
 ## Usage
-```
+```javascript
 const RateLimit = require('./RateLimit');
 const rateLimit = new RateLimit({
     resetPeriod: 60000,     // reset all records after a period of time
